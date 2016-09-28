@@ -4,7 +4,6 @@ These are python's nano project, which will help python beginer to understand pa
 Simple, easy and usefull
 ### Features
 * Program for editing file names
-* Program for finding words
 * Program for sending text message using twillio
 
 ### What's included
