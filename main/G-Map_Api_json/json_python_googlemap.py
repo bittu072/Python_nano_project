@@ -14,11 +14,11 @@ while True:
     try: js = json.loads(str(data))
     except: js = None
     if 'status' not in js or js['status'] != 'OK':
-        print '==== Failure To Retrieve ===='
+        print 'Failure To Retrieve info'
         print data
         continue
 
-    print json.dumps(js, indent=4)
+    #print json.dumps(js, indent=4)
     lat = js["results"][0]["geometry"]["location"]["lat"]
     lng = js["results"][0]["geometry"]["location"]["lng"]
     print 'lat',lat,'lng',lng
