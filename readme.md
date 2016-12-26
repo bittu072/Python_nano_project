@@ -30,9 +30,9 @@ os, TwilioRestClient
 
 ### File description:
 **`G-Map_Api_json`**
-This is a simple program, that will parse data from google map API which is in JSON format. Also, This folder includes trial1 and trial programs to understand basic parsing using python 
+This is a simple program, that will parse data from google map API which is in JSON format. Also, This folder includes trial1 and trial programs to understand basic parsing using python   
 **`HTTP_request`**
-Python program to run http request to webserver to get web header
+Python program to run http request to webserver to get web header  
 **`prank_crack_code`**
 This program will about changing filename. This program finds the name with number inside the given folder path and change the name by removing number(one can easily edit code to change name of one's choice)  
 **`text_message`** 
