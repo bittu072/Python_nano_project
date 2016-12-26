@@ -24,8 +24,8 @@ main/
              |-- send_text.py
 ```
 
-### Requirement:
-os, TwilioRestClient
+### Required python modules:
+urllib, json, socket, os, TwilioRestClient
 
 
 ### File description:
